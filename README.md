@@ -2,7 +2,7 @@
 
 - Loading Pen
 
-[Website demo](http://faisalcep.github.io/simple-leader-board)
+[Website demo](http://dsfaisal.github.io/simple-leader-board)
 
 A dummy leader board website.
 
